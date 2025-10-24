@@ -151,7 +151,6 @@ MALL.HTML
 
 
 
-
 ![alt text](image.png)
 
 
@@ -161,7 +160,7 @@ MALL.HTML
 
 ![alt text](image-5.png)
 
-![alt text](image.png)
+![alt text](1.png)
 
 
 
